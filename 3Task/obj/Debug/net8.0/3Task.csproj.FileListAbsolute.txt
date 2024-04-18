@@ -1,0 +1,15 @@
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\3Task\obj\Debug\net8.0\3Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\3Task\obj\Debug\net8.0\3Task.AssemblyInfoInputs.cache
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\3Task\obj\Debug\net8.0\3Task.AssemblyInfo.cs
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\3Task\obj\Debug\net8.0\3Task.csproj.CoreCompileInputs.cache
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\3Task\obj\Debug\net8.0\3Task.sourcelink.json
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\3Task\bin\Debug\net8.0\3Task.exe
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\3Task\bin\Debug\net8.0\3Task.deps.json
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\3Task\bin\Debug\net8.0\3Task.runtimeconfig.json
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\3Task\bin\Debug\net8.0\3Task.dll
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\3Task\bin\Debug\net8.0\3Task.pdb
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\3Task\obj\Debug\net8.0\3Task.dll
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\3Task\obj\Debug\net8.0\refint\3Task.dll
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\3Task\obj\Debug\net8.0\3Task.pdb
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\3Task\obj\Debug\net8.0\3Task.genruntimeconfig.cache
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\3Task\obj\Debug\net8.0\ref\3Task.dll

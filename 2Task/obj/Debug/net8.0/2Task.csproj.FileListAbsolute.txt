@@ -1,0 +1,15 @@
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\2Task\bin\Debug\net8.0\2Task.exe
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\2Task\bin\Debug\net8.0\2Task.deps.json
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\2Task\bin\Debug\net8.0\2Task.runtimeconfig.json
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\2Task\bin\Debug\net8.0\2Task.dll
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\2Task\bin\Debug\net8.0\2Task.pdb
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\2Task\obj\Debug\net8.0\2Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\2Task\obj\Debug\net8.0\2Task.AssemblyInfoInputs.cache
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\2Task\obj\Debug\net8.0\2Task.AssemblyInfo.cs
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\2Task\obj\Debug\net8.0\2Task.csproj.CoreCompileInputs.cache
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\2Task\obj\Debug\net8.0\2Task.sourcelink.json
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\2Task\obj\Debug\net8.0\2Task.dll
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\2Task\obj\Debug\net8.0\refint\2Task.dll
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\2Task\obj\Debug\net8.0\2Task.pdb
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\2Task\obj\Debug\net8.0\2Task.genruntimeconfig.cache
+C:\Users\nikru\OneDrive\Desktop\LabaRudk\Laba3\2Task\obj\Debug\net8.0\ref\2Task.dll
