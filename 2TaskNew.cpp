@@ -11,7 +11,7 @@ int Random(int min, int max) {
 
 int pow_mod(int a, int x, int p) {
     int result = 1;
-    a = a % p; // Уменьшаем a по модулю p
+    a = a % p;
     while (x > 0) {
         if (x % 2 == 1) {
             result = (result * a) % p;

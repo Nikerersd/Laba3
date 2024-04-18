@@ -35,7 +35,7 @@ int main() {
 
     outfile << setw(10) << "X" << setw(10) << "Y" << endl;
     outfile << string (20, '-') << endl;
-    for (double x = xNach; x <= xKon ; x += dx){
+    for (double x = xNach; x <= xKon ; x += dx) {
         if (abs(x) < 0.000001) {
         x = 0.0;
         }
