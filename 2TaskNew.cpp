@@ -93,18 +93,20 @@ bool Miller(int n, const vector<int>& ProstMnUnik, int t) {
         else {
             MillerF1 = true;
         }
-        for (size_t i = 0; i < ProstMnUnik.size(); i++) {
-            if (pow_mod(a, (n-1)/ProstMnUnik[i], n) == 1) {
-                MillerF2 = false;
-                break;
+    }
+    for (size_t i = 0; i < ProstMnUnik.size(); i++) {
+         for (int j=0; j<t; j++){
+            int a = Random(2,n-1);
+            if (pow_mod(a, (n-1)/ProstMnUnik[i], n) != 1) {
+                continue;
             }
             else {
                 MillerF2 = true;
             }
         }
         if (MillerF1==true && MillerF2==true) return true;
-    }
     return false;
+    }
 }
 
 void PoklingtonRazlozh(int n, int& F, int& R, const vector<int>& ProstMn) {
@@ -145,8 +147,8 @@ bool Poklington(int n, int F, int R, const vector<int>& ProstMnUnik, int t) {
     return false;
 }
 
-bool GOST(int t, int q1) {
-    int p = 0;
+bool GOST(int t, int q1, int& p) {
+    p = 0;
 
     while (true) {
         int N1 = ceil(pow(2, t - 1) / q1);
@@ -196,8 +198,8 @@ int main() {
     vector<int> ProstCh;
     Eratosphen(ProstCh);
     int t = 5;
-    int t1 = 4;
-    int q1 = 3;
+    int t1 = 6;
+    int q1 = 5;
     int k = 0;
     cout << "Число|\tРезультат проверки|\tКоличество отвергнутых чисел" << endl;
     cout << "-------------------------------------------------------" << endl;
@@ -212,12 +214,13 @@ int main() {
         int R = 1;
         PoklingtonRazlozh(n, F, R, ProstMn);
 
-        if (!Miller(n, ProstMnUnik, t) || !Poklington(n, F, R, ProstMnUnik, t)) {
+        if (m*2 + 1 != n || F*R + 1 != n || !Miller(n, ProstMnUnik, t) || !Poklington(n, F, R, ProstMnUnik, t)) {
             k++;
             i--;
             continue;
         }
-        bool GOSTResult = GOST(t, q1);
+        
+        
 
         InPut(n, VerTest(n, t, R, F), k);
 
@@ -225,4 +228,8 @@ int main() {
             k=0;
         }
     }
+    int p;  
+    bool GOSTResult = GOST(t1, q1, p);
+    cout << "Значение переменной теста госта: ";
+    cout << p << endl;
 }
